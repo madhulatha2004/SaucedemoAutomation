@@ -1,0 +1,23 @@
+{
+    "baseURL": "https://www.saucedemo.com/v1",
+    "usernames_extract": "login_credentials",
+    "password_extract": "login_password",
+    "username_field": "form_input",
+    "password_field": "password",
+    "login_button": "login-button",
+    "menu_button": "bm-burger-button",
+    "logout_button": "logout_sidebar_link",
+    "product_sort_dropdown": "product_sort_container",
+    "product_names": "inventory_item_name",
+    "product_prices": "inventory_item_price",
+    "add_to_cart_buttons": "btn_inventory",
+    "cart_link": "shopping_cart_link",
+    "checkout_button": "btn_action",
+    "first_name": "first-name",
+    "last_name": "last-name",
+    "postal_code": "postal-code",
+    "continue_button": "btn_primary",
+    "finish_button": "btn_action",
+    "complete_header": "complete-header"
+}
+
